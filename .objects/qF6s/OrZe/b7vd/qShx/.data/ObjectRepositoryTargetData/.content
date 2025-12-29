@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LlPLV1trEUezUho62uBgaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com" DesignTimeRectangle="1079, 969, 146, 41" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='A' data-product-id='2' /&gt;" Guid="06abb9f6-5b89-4f3e-bf70-43cc2fdd191e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="73dafb71ea1b33678f866c1764123ee9.png" xmlns="">02DPRPBS5HUCrW4XpXVSV5w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Hover</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

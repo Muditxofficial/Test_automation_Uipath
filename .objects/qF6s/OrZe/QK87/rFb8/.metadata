@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Mouse Scroll 'View Product'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "rFb8jt6RykK4jiFnWcKPnA",
+  "Reference": "fbwbieW050CqTQHtphFJ_Q/rFb8jt6RykK4jiFnWcKPnA",
+  "ParentRef": "fbwbieW050CqTQHtphFJ_Q/QK872ZqurEavi0RoLDeVLQ",
+  "Created": "2025-12-29T08:04:14.1418282Z",
+  "Updated": "2025-12-29T08:04:14.1418282Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
