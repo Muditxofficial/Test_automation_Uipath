@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eSgn2ekk3EaLWrk0EdANQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/products" CVScreenId="5f37e1c2-a25c-4b13-a3a7-52593874defb" CvTextArea="1016, 759, 268, 21" CvTextArgument="SEARCHED PRODUCTS" CvType="Text" DesignTimeRectangle="631, 758, 1041, 25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H2' aaname='Searched Products' /&gt;" Guid="d87ae210-95b1-4e88-b270-b9579d4e7ba6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - All Products' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="46b1036366c599a1d7fc5c84eca96504.png" xmlns="">0KPhr8H0PBEWdz-7wKsvfgQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

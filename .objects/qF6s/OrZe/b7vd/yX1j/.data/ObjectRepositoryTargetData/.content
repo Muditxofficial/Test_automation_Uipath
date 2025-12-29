@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TEuJ37fYuUaNMuaXsk0pvg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com" CVScreenId="3028014f-47ca-45b3-9ff3-5575598008a1" CvTextArea="1051, 891, 200, 22" CvTextArgument="FEATURES ITEMS" CvType="Text" DesignTimeRectangle="631, 890, 1041, 25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;h2' idx='2' tag='H2' /&gt;" Guid="ac1755d5-7219-434d-8e0b-bbdc7b02d84c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3028014f-47ca-45b3-9ff3-5575598008a1" CvTextArea="344, 891, 133, 22" CvTextArgument="CATEGORY" CvType="Text" DesignTimeRectangle="247, 890, 328, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='H2' class='' aaname='Category' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='CATEGORY' /&gt;" Guid="aa3a2d17-ca45-49cd-b3fd-9eff9cac41ca" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="46edf9036652e0663fa301b7bf484902.png" xmlns="">0jyXvPPSHY0yLiFMtYRKc-A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

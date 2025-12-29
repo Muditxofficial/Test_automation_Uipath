@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HTeLngnUkEC7opWslSEvDA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/signup" CVScreenId="e60abc9c-4408-410a-b154-30448537ff9e" CvElementArea="528, 437, 115, 45" CvType="InputBox" DesignTimeRectangle="531, 438, 110, 42" ElementType="DropDown" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='months' tag='SELECT' /&gt;" Guid="b6c6bf48-cf8e-4474-9903-44d972f5bad1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Signup' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d66b8c117bc5bfb459fdd5446482d0bd.png" xmlns="">0zA118RpcjEeC0YAed6ImzA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

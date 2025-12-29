@@ -1,0 +1,14 @@
+﻿{
+  "Name": "New User Signup!",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "hWQuww1X80ypAlj4S6pc6w",
+  "Reference": "fbwbieW050CqTQHtphFJ_Q/hWQuww1X80ypAlj4S6pc6w",
+  "ParentRef": "fbwbieW050CqTQHtphFJ_Q/b7vdzXBJrk2OKh0kpNWO5A",
+  "Created": "2025-12-23T19:16:01.5473471Z",
+  "Updated": "2025-12-23T19:16:01.5473471Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

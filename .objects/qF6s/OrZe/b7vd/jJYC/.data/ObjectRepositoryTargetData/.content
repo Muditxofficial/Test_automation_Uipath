@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Vk_wZlpNwUWOn7RnrwNdBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/products" CVScreenId="5f37e1c2-a25c-4b13-a3a7-52593874defb" CvElementArea="389, 682, 365, 53" CvType="InputBox" DesignTimeRectangle="391, 683, 375, 50" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='search_product' tag='INPUT' /&gt;" Guid="261c62da-1476-4449-ae1c-aa90e9240598" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - All Products' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f51d4e028423534071781b0b53b5bdec.png" xmlns="">0cU2CesoVNkGTdASeAjvv4w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

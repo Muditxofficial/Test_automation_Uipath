@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Features Items",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "z1Ca3EYSTEeYTpvpiCDhCQ",
+  "Reference": "fbwbieW050CqTQHtphFJ_Q/z1Ca3EYSTEeYTpvpiCDhCQ",
+  "ParentRef": "fbwbieW050CqTQHtphFJ_Q/b7vdzXBJrk2OKh0kpNWO5A",
+  "Created": "2025-12-27T11:32:20.4305682Z",
+  "Updated": "2025-12-27T11:32:20.4305682Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vfg1bsfU70GeTmi2phfZrQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/login" CVScreenId="499f7109-6ab5-4b26-9197-a48c721a8a5f" CvElementArea="975, 561, 455, 52" CvType="InputBox" DesignTimeRectangle="978, 563, 450, 50" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" Guid="6f86b557-2a17-4a48-b079-74b60c743160" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Signup / Login' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="499f7109-6ab5-4b26-9197-a48c721a8a5f" CvTextArea="977, 500, 205, 27" CvTextArgument="New User Signup!" CvType="Text" DesignTimeRectangle="978, 498, 450, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='' tag='H2' aaname='New User Signup!' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='New User Signup!' /&gt;" Guid="070d4630-5d4e-476f-b644-f4dd3ae226dd" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a27ee34562c8a756cbfa297f34b5511d.png" xmlns="">0pBBsm0-lIUebLsJAeA8j6g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

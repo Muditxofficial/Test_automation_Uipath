@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vH6pX8S0pkSOy8lLB8f52A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/signup" CVScreenId="6572089e-1730-4e35-a85a-7ea581c267b3" CvElementArea="366, 784, 190, 45" CvTextArea="397, 797, 124, 16" CvTextArgument="Create Account" CvType="Button" DesignTimeRectangle="369, 786, 184, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" Guid="e0f1b088-0e23-4666-bd53-fa8080e5543e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Signup' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9c50e6b5e6fc41454a715cfa09892fc1.png" xmlns="">0E9NSO7Hg1UmK2uTLfDuRaw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

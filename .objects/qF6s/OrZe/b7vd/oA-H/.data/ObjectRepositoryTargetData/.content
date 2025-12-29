@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OhiTX--JH0S7_2TZeqSyEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/signup" CVScreenId="cf1203e4-ceb8-4db6-8b48-547e744231f6" CvElementArea="366, 550, 23, 23" CvType="CheckBox" DesignTimeRectangle="369, 552, 19, 19" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='newsletter' tag='INPUT' type='checkbox' class='' aaname='Sign up for our newsletter!' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="3f7babbc-ad80-43b9-af21-d095b204948d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Signup' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cf1203e4-ceb8-4db6-8b48-547e744231f6" CvTextArea="392, 551, 211, 20" CvTextArgument="Sign up for our newsletter!" CvType="Text" DesignTimeRectangle="394, 549, 211, 21" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Sign up for our newsletter!' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Sign up for our newsletter!' /&gt;" Guid="92905003-e4c1-4dca-8574-f80765d209c6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e9c8330db6143d9cbe2d620f32f617d3.png" xmlns="">0d9qob-J1zEeWDI3ZhkD5tQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lNmx471AYUiwL45n9Bs07A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/signup" CVScreenId="a892e211-e3bc-44ea-b364-76de52e352bb" CvElementArea="366, 581, 23, 23" CvType="CheckBox" DesignTimeRectangle="369, 583, 19, 19" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='optin' tag='INPUT' type='checkbox' class='' aaname='Receive special offers from our partners!' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="10466f62-2770-40de-8b2a-88a968ef04c3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Signup' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a892e211-e3bc-44ea-b364-76de52e352bb" CvTextArea="392, 582, 325, 20" CvTextArgument="Receive special offers from our partners!" CvType="Text" DesignTimeRectangle="394, 580, 324, 21" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Receive special offers from our partners!' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Receive special offers from our partners!' /&gt;" Guid="3106742e-d0ad-452e-8491-3d610871ef5c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7f14c93d6c36babe44f4f1a2fc6bed6a.png" xmlns="">0yo4D3Cfv8EiqP1UpcUVoRA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

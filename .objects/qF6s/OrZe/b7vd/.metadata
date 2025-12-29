@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Automation Exercise",
+  "Type": "Screen",
+  "Id": "b7vdzXBJrk2OKh0kpNWO5A",
+  "Reference": "fbwbieW050CqTQHtphFJ_Q/b7vdzXBJrk2OKh0kpNWO5A",
+  "ParentRef": "fbwbieW050CqTQHtphFJ_Q/OrZem4WyIUSwJBfeNKkHfw",
+  "Created": "2025-12-23T19:14:08.8448363Z",
+  "Updated": "2025-12-23T19:14:08.8448363Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
