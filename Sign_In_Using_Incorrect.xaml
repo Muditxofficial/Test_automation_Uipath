@@ -1,0 +1,156 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Sign_In_Using_Incorrect" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="Sign_In_Using_Incorrect_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Drawing;assembly=System.Drawing.Common" xmlns:sd1="clr-namespace:System.Drawing;assembly=System.Drawing.Primitives" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>System.Security</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>System.ComponentModel</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Runtime.InteropServices</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Sign_In_Using_Incorrect" sap:VirtualizedContainerService.HintSize="898,1312.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="[UiPath.UIAutomationNext.Enums.NAppCloseMode.Never]" DisplayName="Use Browser Chrome: Automation Exercise" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="451.2,1289.6" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" IsDisplayNameAuto="True" OutUiElement="[Container_Parent]" ScopeGuid="fb63d5a1-624a-45d9-8aa7-b56ef881332f" Version="V2">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="449.6,1096" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                <x:Boolean x:Key="IsPinned">False</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Signup  Login(1)'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,197.6" sap2010:WorkflowViewState.IdRef="NClick_1" InteractionMode="SameAsCard" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fb63d5a1-624a-45d9-8aa7-b56ef881332f" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="automationexercise.com" CVScreenId="74b3836b-d956-46ef-bd84-299b555a04c3" ContentHash="dj8nt_q4Q0SP13MSj3j3mw" CvTextArea="1122, 159, 118, 21" CvTextArgument="Signup / Login" CvType="Text" DesignTimeRectangle="1104, 155, 136, 25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname=' Signup / Login' tag='A' /&gt;" Guid="1f444610-b0b5-4984-ad30-ad65de23a7ce" InformativeScreenshot="033eda4bac2ac478d429c5e345fafced.png" Reference="fbwbieW050CqTQHtphFJ_Q/-Nq9qx1SeUGTmPZuDRJlOw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Login to your account'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,249.6" sap2010:WorkflowViewState.IdRef="NTypeInto_1" InteractionMode="SameAsCard" ScopeIdentifier="fb63d5a1-624a-45d9-8aa7-b56ef881332f" Text="alienseaker982@gmail.com" Version="V5">
+              <uix:NTypeInto.Target>
+                <uix:TargetAnchorable BrowserURL="automationexercise.com/login" CVScreenId="5f8ab8cc-833b-4ed7-896e-46f552cc5d4a" ContentHash="lgDxf4r5QE2o2irZcLvueQ" CvElementArea="366, 561, 454, 53" CvType="InputBox" DesignTimeRectangle="369, 563, 450, 50" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='email' /&gt;" Guid="9fefa222-4f85-482c-9d9f-b9d1277d1785" InformativeScreenshot="acd3748bb6c065edac8def14297ac55e.png" IsResponsive="True" Reference="fbwbieW050CqTQHtphFJ_Q/jYECrrL2AUyc_lk_F0_FEA" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Signup / Login' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                      <uix:Target CVScreenId="5f8ab8cc-833b-4ed7-896e-46f552cc5d4a" CvTextArea="367, 500, 244, 27" CvTextArgument="Login to your account" CvType="Text" DesignTimeRectangle="369, 498, 450, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H2' type='' class='' aaname='Login to your account' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Login to your account' /&gt;" Guid="356cf693-b91d-440b-a28c-8f472f4377c1" SearchSteps="FuzzySelector, CV" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NTypeInto.Target>
+            </uix:NTypeInto>
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'INPUT'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,249.6" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="SameAsCard" ScopeIdentifier="fb63d5a1-624a-45d9-8aa7-b56ef881332f" Text="me1234@sda" Version="V5">
+              <uix:NTypeInto.Target>
+                <uix:TargetAnchorable BrowserURL="automationexercise.com/login" CVScreenId="5f8ab8cc-833b-4ed7-896e-46f552cc5d4a" ContentHash="4--bI90IC0C9l8pyo3wW9Q" CvElementArea="366, 623, 455, 54" CvType="InputBox" DesignTimeRectangle="369, 626, 450, 50" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='password' /&gt;" Guid="ce49e759-d0f6-42d7-b5fb-43b4b9f06428" InformativeScreenshot="4aa6054cf1dc1e3b05b0d9d48f9447c5.png" Reference="fbwbieW050CqTQHtphFJ_Q/UUUAJEW5n0y6ds-9eB0ggw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Signup / Login' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive" />
+              </uix:NTypeInto.Target>
+            </uix:NTypeInto>
+            <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Login'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,197.6" sap2010:WorkflowViewState.IdRef="NClick_2" InteractionMode="Simulate" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="fb63d5a1-624a-45d9-8aa7-b56ef881332f" Version="V5">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="automationexercise.com/login" CVScreenId="5f8ab8cc-833b-4ed7-896e-46f552cc5d4a" ContentHash="38qxO9qTeUC8ilOof2cMBA" CvElementArea="366, 702, 110, 44" CvTextArea="397, 716, 46, 21" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="369, 704, 106, 40" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' aaname='Login' /&gt;" Guid="7edeb847-99fd-4edf-a121-33d098bc801b" InformativeScreenshot="184ef0f46a2a7f9adc88d772f8cfb617.png" Reference="fbwbieW050CqTQHtphFJ_Q/KYACu92hE0mo6rirer8l_w" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Signup / Login' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NCheckElement Result="{x:Null}" DelayBefore="0" DisplayName="Check Element 'Your email or password …'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,137.6" sap2010:WorkflowViewState.IdRef="NCheckElement_1" ScopeIdentifier="fb63d5a1-624a-45d9-8aa7-b56ef881332f" Version="V5">
+              <uix:NCheckElement.Target>
+                <uix:TargetAnchorable BrowserURL="automationexercise.com/login" CVScreenId="8da91bb8-bfb7-4351-b5ec-9e1f8a3dc6b0" ContentHash="v6TS_VpW_ECyJoxGpcJwlQ" DesignTimeRectangle="369, 623, 450, 25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='P' style='color: red;' /&gt;" Guid="106e1285-8c8b-4371-acfd-9a6e8ee304c1" InformativeScreenshot="7c36d4c124d217660735eef989b941ad.png" Reference="fbwbieW050CqTQHtphFJ_Q/td2evw4VlU-EbN8RTDkZdg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Signup / Login' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="None" />
+              </uix:NCheckElement.Target>
+            </uix:NCheckElement>
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.OCREngine>
+        <ActivityFunc x:TypeArguments="sd:Image, scg:IEnumerable(scg:KeyValuePair(sd1:Rectangle, x:String))">
+          <ActivityFunc.Argument>
+            <DelegateInArgument x:TypeArguments="sd:Image" Name="Image" />
+          </ActivityFunc.Argument>
+        </ActivityFunc>
+      </uix:NApplicationCard.OCREngine>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="-9, -9, 1938, 1038" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAAE4AAABTCAIAAAC+gKYPAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAWJQAAFiUBSVIk8AAAA89JREFUeF7tmsuVqzAMhqeF1EQ9dEML6YANezpgy4YSKCDkHr/AlmSwMWCFy3+0GQJn+LCsF/x9/xv9wQP31YN6Rz2od9SDekc9qHfUg7pH/XdopqGZRvgDEx2EOjZT/fq8pdUV/JWHjkAdSg15d9RmsjmFlRM8h4WSUbvC5Xx93gXP7ZqGOlaIU9g0wBM5KAl1aiGkNpbbNQFVu27xmWPvYhy3615U7bpyW4IIPB9npn2ovc6iXS/+InbsbVDVMi4b0pBbxjAyxaOaNXRgOuTDasE5KRpVRV24aAPy4bZxz8ivSFQdgagAO7puvII6lPDIJYpBncMPjQEqxFJ0OUMjO4HiUztFFbz0EoWjmkXzlge4GPYavPQSBaOagmEli3iLJ2TwyksUiNprDNp1Zb/a4rofm/TkuoCXX6IwVNO+WIFXzhy6cmpRmgHWVtPIIvFsoy7LVVffsafKQOnYbTmN0IdhTsqqVdSxhynEYhPLNYgT7Ct+DtUaFBFW+Csh+FyYo8LbdawuxEp6ha71PpQMgqiehFF82nIVUumHUMmQ0/pqBkLwSfFFHSuV95ao60uktNCqxl1+rqADK5nFWauNSMFV9VaRGUShLvNOqoNZFUSNf1jnyUGV67DcaHyqQA78fk1stitCXUxUP5EiUPn4sA91PX/69Iuou70Ov9c4CXXsZesfcZ8UasrNocy8tuFlje3YUBm/kP2DqLHhRULLf4kIexh1n+sa2aj1WgBHsdpval6jrXQa45i87aCKB7nbdbXmsUvhXU+08jst0vuovJoqsYtoxzuQMz7nn4G6qhlVOaRpeol5jeO39vGQxoPQ5ag6GsFjKHSjRZPDHe+mCFAOVFIANXIfhogN6vnfjnBFjckigWKD6r6kTdmTPrFBdVaVqoGGSoQlMVWGvwSKCSruE6g0ow0F5zCxRfXabt9mgRpRDyfUrSxQUVKVs1hRMMhPUdUu7fzFZph4oDrhd+dW3BQPVDv8npBRlXigJswow8UCdQlLJ9SDszigWh9RnOa9/FATcsmmGKBaMWl3eRAiBqhLTKJK3+OUH9UqlWJQ9TwVHl5RdlT7w66gTCOmUM6LpdDtnRvVrpNCwm/Ct8e5UWPrJDhtUwsLzyJ1Kaqo2mffw13bNio1Qw1z+6tR0V1SJj5PqExPY9oaukcXxnSv4htNssjhy8+hmla22/R2qGtR1au0QX5m6nFIbfo1h5ybLc6c1J1fiuoIxN7lLSs88ShlQnVGoaEhNFFZUJ1P3wOzYrpyo27n0sOUCVVEnbhUka4sqHn0oN5R/wBGC/C5PNYWiAAAAABJRU5ErkJggg==" InformativeScreenshot="7329ae37eaa5bb361a031d106bf29350.jpg" Selector="&lt;html app='chrome.exe' title='Automation Exercise' /&gt;" Url="https://automationexercise.com/" Version="V2">
+          <uix:TargetApp.Arguments>
+            <InArgument x:TypeArguments="x:String" />
+          </uix:TargetApp.Arguments>
+          <uix:TargetApp.WorkingDirectory>
+            <InArgument x:TypeArguments="x:String" />
+          </uix:TargetApp.WorkingDirectory>
+        </uix:TargetApp>
+      </uix:NApplicationCard.TargetApp>
+    </uix:NApplicationCard>
+  </Sequence>
+</Activity>
