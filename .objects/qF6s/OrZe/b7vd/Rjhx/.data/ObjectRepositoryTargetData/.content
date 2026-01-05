@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="J_QGBqk36E-k85gcv7iz-w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/product_details/1" CVScreenId="4d7e1048-83c8-4aa7-80c0-2407ab6f6ef5" CvTextArea="909, 476, 80, 16" CvTextArgument="View Cart" CvType="Text" DesignTimeRectangle="912, 474, 77, 21" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='U' aaname='View Cart' /&gt;" Guid="e1809355-2c43-4de4-89d5-35ad1704e203" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Product Details' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4d7e1048-83c8-4aa7-80c0-2407ab6f6ef5" CvTextArea="800, 439, 298, 17" CvTextArgument="Your product has been added to cart." CvType="Text" DesignTimeRectangle="797, 435, 306, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='text-center' matching:class='fuzzy' fuzzylevel:class='0.0' aaname='Your product has been added to cart.' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' innertext='Your product has been added to cart.' check:innerText='Your product has been added to cart.' /&gt;" Guid="fda76fa3-23ca-488a-b796-6ab92ca2ca4e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4aae73bd31e422f92c6de4c53d9c0e67.png" xmlns="">07nbAe4ho-EqANwe7kqCwmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
