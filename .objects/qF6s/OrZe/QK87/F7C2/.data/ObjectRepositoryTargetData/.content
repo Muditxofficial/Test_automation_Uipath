@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UhBMNk5u8U6n6mJf2z41Iw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/test_cases" CVScreenId="d630d01b-24ea-40e6-a95d-772f76cf299b" CvTextArea="366, 541, 427, 21" CvTextArgument="Your account has been permanently deleted!" CvType="Text" DesignTimeRectangle="369, 535, 1059, 36" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='P' aaname='Your account has been permanently deleted!' /&gt;" Guid="fbf38c3e-1e0d-40d2-a890-17cae61c82d7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Account Created' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d630d01b-24ea-40e6-a95d-772f76cf299b" CvTextArea="776, 474, 242, 21" CvTextArgument="ACCOUNT DELETED!" CvType="Text" DesignTimeRectangle="779, 471, 239, 27" FuzzySelectorArgument="&lt;webctrl tag='B' type='' class='' aaname='Account Deleted!' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='ACCOUNT DELETED!' /&gt;" Guid="aecb2b69-cdd2-40e0-ab1b-632a8b601567" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e24501f4179178bf9891d6e5808f17f4.png" xmlns="">0Fh4ofZZlf0uOehGiozN1pQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

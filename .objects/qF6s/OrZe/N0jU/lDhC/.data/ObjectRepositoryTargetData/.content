@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uisMVlV5gE2_HlClX2onSA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/test_cases" CVScreenId="4dd6355d-a8b2-47e4-bcfa-00db079aa78f" CvElementArea="750, 693, 418, 47" CvType="InputBox" DesignTimeRectangle="753, 694, 413, 43" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl name='card_number' tag='INPUT' type='text' class='form-control card-number' aaname='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="75c269cc-8672-40b8-b6da-6415a97e6279" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Payment' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4dd6355d-a8b2-47e4-bcfa-00db079aa78f" CvTextArea="751, 667, 118, 16" CvTextArgument="Card Number" CvType="Text" DesignTimeRectangle="753, 663, 116, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Card Number' tag='LABEL' type='' class='control-label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Card Number' /&gt;" Guid="9b21bff4-3356-4a4f-96a3-f15aaab2d23d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="14684e8a77bdb7d231882ae77ed9ad5c.png" xmlns="">0NvzrL8e7iUydMYOD9Xq5UA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

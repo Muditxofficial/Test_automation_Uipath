@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GWBH0sUV5EeSXM5KQG0BkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/test_cases" CVScreenId="4dd6355d-a8b2-47e4-bcfa-00db079aa78f" CvElementArea="750, 866, 418, 47" CvTextArea="866, 881, 188, 21" CvTextArgument="Pay and Confirm Order" CvType="Button" DesignTimeRectangle="753, 868, 413, 42" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='submit' tag='BUTTON' innertext='Pay and Confirm Order' type='submit' /&gt;" Guid="266e1728-fcc7-4db6-bdbf-b39232f36c9f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Payment' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4dd6355d-a8b2-47e4-bcfa-00db079aa78f" CvElementArea="751, 785, 117, 46" CvType="InputBox" DesignTimeRectangle="753, 787, 113, 42" ElementType="InputBox" FullSelectorArgument="&lt;webctrl name='cvc' tag='INPUT' type='text' /&gt;" Guid="d3578ef8-42b0-4cb9-8bcd-c294d74d339e" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8b2f0cc4540bdd2a9c7e6a15ff797021.png" xmlns="">0ulN1dE6f60KkxrLUBqvvBQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

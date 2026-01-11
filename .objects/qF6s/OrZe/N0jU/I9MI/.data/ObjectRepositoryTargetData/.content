@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UJ7OVtqjpk2Zhqj99R3SIA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/test_cases" CVScreenId="887dde0c-4bdc-4dd8-ae37-c4a138223220" CvElementArea="1324, 601, 106, 43" CvTextArea="1339, 615, 73, 17" CvTextArgument="Continue" CvType="Button" DesignTimeRectangle="1326, 603, 102, 40" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Continue' parentid='form' tag='A' /&gt;" Guid="a0784aea-8753-4684-ba9a-97f95bc41404" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Order Placed' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e939d90bf1346d2053ddee972f082ff3.png" xmlns="">0R8CHJoBrdE-JIXQwxhhI_A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

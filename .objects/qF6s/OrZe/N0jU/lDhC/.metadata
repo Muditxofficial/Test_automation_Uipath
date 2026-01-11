@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Card Number",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "lDhCLka_LUWlDrKeUNfGXA",
+  "Reference": "fbwbieW050CqTQHtphFJ_Q/lDhCLka_LUWlDrKeUNfGXA",
+  "ParentRef": "fbwbieW050CqTQHtphFJ_Q/N0jUHzu7eUyzVJiWtKPiRA",
+  "Created": "2026-01-11T01:12:51.98508Z",
+  "Updated": "2026-01-11T01:12:51.98508Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

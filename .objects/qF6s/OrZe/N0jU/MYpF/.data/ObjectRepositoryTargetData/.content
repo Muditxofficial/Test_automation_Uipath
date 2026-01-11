@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Vw9hFHLAo0a_bqPCsafMXg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/test_cases" CVScreenId="0d50661c-3682-4200-9c87-37157a38919d" CvTextArea="267, 616, 307, 22" CvTextArgument="YOUR DELIVERY ADDRESS" CvType="Text" DesignTimeRectangle="270, 614, 647, 48" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H3' aaname='Your delivery address' /&gt;" Guid="987c7629-f8ef-4625-b9d8-84f605cf3605" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Checkout' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0d50661c-3682-4200-9c87-37157a38919d" CvTextArea="276, 501, 179, 22" CvTextArgument="Address Details" CvType="Text" DesignTimeRectangle="247, 487, 1425, 52" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H2' type='' class='heading' aaname='Address Details' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Address Details' /&gt;" Guid="7eb37392-1ded-46cc-bbad-ba86e14acb4d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b2f0a1052039b1743d7367cf6610c517.png" xmlns="">0knIRWmvzOkat8wi2qF5wyg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

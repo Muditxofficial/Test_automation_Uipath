@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mpj-7ccwBEq6BEF0hojO0g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/test_cases" CVScreenId="8a4425de-c6c1-4282-a7cf-af3e415ea72e" CvElementArea="391, 604, 182, 41" CvTextArea="411, 616, 143, 16" CvTextArgument="Download Invoice" CvType="Button" DesignTimeRectangle="394, 606, 178, 37" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl href='/download_invoice/900' innertext='Download Invoice' /&gt;" Guid="a8d2c813-cce1-4a37-a20e-8d8402e4fc3a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Order Placed' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8a4425de-c6c1-4282-a7cf-af3e415ea72e" CvTextArea="367, 542, 474, 25" CvTextArgument="Congratulations! Your order has been confirmed!" CvType="Text" DesignTimeRectangle="369, 535, 1059, 36" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' aaname='Congratulations! Your order has been confirmed!' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Congratulations! Your order has been confirmed!' /&gt;" Guid="7f4713fe-e8a8-47c6-a064-210c4d7f0e06" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0ea2ec0ff657adb084f870d7b44babc4.png" xmlns="">0hdoZWFf5fUeJgk86Wf7bBA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

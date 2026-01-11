@@ -1,0 +1,14 @@
+﻿{
+  "Name": "CVC",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "5QxOeJAe40yLgcXAz5YMiA",
+  "Reference": "fbwbieW050CqTQHtphFJ_Q/5QxOeJAe40yLgcXAz5YMiA",
+  "ParentRef": "fbwbieW050CqTQHtphFJ_Q/N0jUHzu7eUyzVJiWtKPiRA",
+  "Created": "2026-01-11T01:13:53.4535885Z",
+  "Updated": "2026-01-11T01:13:53.4535885Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

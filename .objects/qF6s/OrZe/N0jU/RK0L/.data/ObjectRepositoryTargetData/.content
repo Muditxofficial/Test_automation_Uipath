@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vFIT3pmeT0aVQOE-Su6LKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/test_cases" CVScreenId="b97472ab-55e1-4e6a-94b7-c7e6c7781eed" CvElementArea="1323, 685, 106, 44" CvTextArea="1339, 699, 73, 17" CvTextArgument="Continue" CvType="Button" DesignTimeRectangle="1326, 687, 102, 40" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='form' tag='A' aaname='Continue' /&gt;" Guid="ef5e52b6-97ff-442c-8ad2-df00ba4e6471" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Account Created' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="369, 583, 1059, 72" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='P' class='' aaname='You can create new account to take advantage of member privileges to enhance your online shopping experience with us.' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='You can create new account to take advantage of member privileges to enhance your online shopping experience with us.' /&gt;" Guid="8954960d-5c39-4709-928e-190728855d07" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e20528c7b394196d09202313fe7a922a.png" xmlns="">0QToiqcrOWEye6nSCd0mc-g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

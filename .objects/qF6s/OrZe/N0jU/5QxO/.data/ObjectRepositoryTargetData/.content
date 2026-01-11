@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f030AhHPg0uoSEYfoVWaEQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/test_cases" CVScreenId="4dd6355d-a8b2-47e4-bcfa-00db079aa78f" CvElementArea="751, 785, 117, 46" CvType="InputBox" DesignTimeRectangle="753, 787, 113, 42" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl name='cvc' tag='INPUT' type='text' class='form-control card-cvc' placeholder='ex. 311' aaname='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="a8054fe1-26ff-4b3e-bf11-81cab30ad6b9" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Payment' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4dd6355d-a8b2-47e4-bcfa-00db079aa78f" CvTextArea="751, 760, 40, 16" CvTextArgument="CVC" CvType="Text" DesignTimeRectangle="753, 756, 39, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='CVC' tag='LABEL' type='' class='control-label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='CVC' /&gt;" Guid="5120b6e6-ed45-494d-94ef-48339ea4222e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ed4ece204ded354c9864770f88f05f28.png" xmlns="">0jWIVAYS44kS80w1X_yk3vA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

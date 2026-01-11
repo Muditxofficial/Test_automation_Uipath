@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lhQCBrlcMkCaT4ZFT2_tWA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationexercise.com/test_cases" CVScreenId="8a4425de-c6c1-4282-a7cf-af3e415ea72e" CvTextArea="367, 542, 474, 25" CvTextArgument="Congratulations! Your order has been confirmed!" CvType="Text" DesignTimeRectangle="369, 535, 1059, 36" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='P' aaname='Congratulations! Your order has been confirmed!' innertext='Congratulations! Your order has been confirmed!' /&gt;" Guid="e4bd00d5-d2b1-4831-b2e6-9d6a5a199d0c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Automation Exercise - Order Placed' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8a4425de-c6c1-4282-a7cf-af3e415ea72e" CvTextArea="801, 474, 193, 21" CvTextArgument="ORDER PLACED!" CvType="Text" DesignTimeRectangle="803, 471, 192, 27" FuzzySelectorArgument="&lt;webctrl parentid='form' tag='B' type='' class='' aaname='Order Placed!' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='ORDER PLACED!' /&gt;" Guid="a2b101df-6368-401f-b953-9cf3240bd15f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2a9319e01dd87c61cb80f8b6d767c166.png" xmlns="">0mxvIxMfzGkeT_if3quAWWA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
